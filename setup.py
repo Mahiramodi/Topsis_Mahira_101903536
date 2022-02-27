@@ -8,7 +8,7 @@ setup(
   author = 'Mahira Modi',                
   author_email = 'mmodi_be19@thapar.edu',      
   url = 'https://github.com/Mahiramodi/Topsis_Mahira_101903536',   
-  download_url = '',    
+  download_url = 'https://github.com/Mahiramodi/Topsis_Mahira_101903536/archive/refs/tags/version.tar.gz',    
   keywords = ['topsis','topsis score','rank','Thapar'],
   install_requires=['numpy','pandas' ],
   classifiers=[
